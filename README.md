@@ -1,5 +1,5 @@
 # AWS
-AWS Usefull info
+AWS Usefull info from course "AWS Cloud Practitioner Essentials"
 
 # EC2
 Five types available
