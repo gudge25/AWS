@@ -86,3 +86,16 @@ Logs of all API calls made to the cloud from an account in order to monitor usag
 
 # AWS Trusted Advisor
 Identify areas where you can improve in five categories: cost optimization, performance, security, fault tolerance, and service limits
+
+# AWS Pricing Calculator
+Configure a cost estimate that fits your unique business or personal needs with AWS products and services.
+
+# AWS Budgets
+Set up budget alerts based off of spending thresholds you set yourself
+
+# AWS Cost Explorer
+Analyze costs across multiple accounts and regions
+
+# AWS Marketplace
+Buy third party software as a service
+
