@@ -12,6 +12,9 @@ Five types available
 # Amazon Elastic Beanstalk
 It is a service that makes it easy for you to get started with the AWS cloud and deploy your applications quickly.
 
+# AWS CloudFormation
+ Code as infrastructure
+
 # VPC
 Virtual Private Cloud (VPC) is a logically isolated section of the AWS cloud. It provides you with complete control over your virtual networking environment, including
 
@@ -76,7 +79,7 @@ DDoS protection
 Web application firewall
 
 # Amazon GuardDuty
-Security monitoring
+Intelligent threat detection for your AWS infrastructure and resources
 
 # Amazon CloudWatch
 Monitoring services, logs & alarms
@@ -99,3 +102,32 @@ Analyze costs across multiple accounts and regions
 # AWS Marketplace
 Buy third party software as a service
 
+# Cloud Adoption Framework
+A framework for building secure, compliant, resilient infrastructure at scale on AWS
+
+# AWS Snow Family
+Data transfer devices 
+
+# Amazon SageMaker 
+Machine learning platform
+
+# Amazon CodeWhisperer
+Interactive coding environment
+
+# Amazon Transcribe
+Speech-to-text transcription service
+
+# Amazon Comprehend
+Natural language processing (NLP) service
+
+# Amazon Augmented AI
+Builds the workflows that are required for human review of machine learning predictions
+
+# Amazon Fraud Detector
+Fraud detection service
+
+# Amazon Lex
+Conversational AI chatbot service
+
+# AWS Well-Architected Tool
+Assess architecture against best practices
