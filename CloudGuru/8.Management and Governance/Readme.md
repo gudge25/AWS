@@ -36,3 +36,20 @@ Analyze and Debug prod application
 
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
+
+
+
+
+## CloudFormation
+Define  infrastructure as a Code
+Json or Yaml conf accepted
+it creates a stack 
+
+## AWS CloudWatch
+Collect and displays data  and  you can  set alarms  and Log Store
+
+## Auto Scaling
+Minimum = 1
+Desired = 2 (want to use using CloudWath to scale )
+
+EC2 DynamoDB Aurora applies 
